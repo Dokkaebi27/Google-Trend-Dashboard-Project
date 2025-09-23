@@ -37,7 +37,26 @@ The project tracks and visualizes keyword performance across popular social medi
 - Shows **ranking and values** to compare dominant keywords.  
 - Useful for understanding which platforms or terms consistently attract the most attention.
 
+
 ---
+## 📂 Repository Structure
+``` 
+hospital-analysis-project/  
+│  
+├── dat/                              # Raw and datasets for this project               
+│  
+├── sql/                                   # MySQL scripts  
+│   ├── hospital_ddl.sql                   # Database schema (CREATE TABLE)  
+│   └── hospital_views.sql                 # SQL queries for analysis (KPI, aggregation)  
+│  
+├── powerbi/                               # Power BI dashboard file  
+│   └── Hospital_Analysis.pbix             # Interactive dashboard (Power BI)  
+│  
+├── docs/                                  # Documentation & reports  
+│   └── Hospital_Analysis.pdf              # Dashboard documentation (PDF export)  
+│  
+└── README.md                              # Project description and portfolio details
+``` 
 
 ## 🔧 How to Change Parameters in Power BI  
 
