@@ -77,10 +77,7 @@ To customize the dashboard with different keywords or settings, you can modify t
 
 4. Apply the Changes  
    - Click **Close & Apply** to refresh the data model.  
-   - The dashboard will now update automatically based on your new parameter.  
-
----
-
+   - The dashboard will now update automatically based on your new parameter.
 ### Example  
 To analyze **TikTok** instead of **YouTube**:  
 - Go to **Transform Data > Parameters > Keywords**.  
