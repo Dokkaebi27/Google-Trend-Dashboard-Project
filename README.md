@@ -1,8 +1,7 @@
 # 📊 Google Trends Analysis Dashboard
 
-Welcome to the **Google Trends dashboard** repository 🚀 <br>
-This repository showcases an interactive **Google Trends dashboard** built using **Power BI**.  
-The project tracks and visualizes keyword performance across popular social media platforms.
+Welcome to the **Google Trends Dashboard** repository 🚀 <br>
+This repository showcases an interactive **Google Trends dashboard** built using **Power BI**. The project tracks and visualizes keyword performance across popular social media platforms.
 
 ---
 
@@ -41,23 +40,20 @@ The project tracks and visualizes keyword performance across popular social medi
 ---
 ## 📂 Repository Structure
 ``` 
-hospital-analysis-project/  
-│  
-├── dat/                              # Raw and datasets for this project               
-│  
-├── sql/                                   # MySQL scripts  
-│   ├── hospital_ddl.sql                   # Database schema (CREATE TABLE)  
-│   └── hospital_views.sql                 # SQL queries for analysis (KPI, aggregation)  
-│  
-├── powerbi/                               # Power BI dashboard file  
-│   └── Hospital_Analysis.pbix             # Interactive dashboard (Power BI)  
-│  
-├── docs/                                  # Documentation & reports  
-│   └── Hospital_Analysis.pdf              # Dashboard documentation (PDF export)  
-│  
-└── README.md                              # Project description and portfolio details
+Google-Trend-Social-Media-Dashboard/
+│
+├── Docs/  
+│   └── Google Trends.pdf       # Project documentation (PDF)
+│
+├── PowerBI/  
+│   └── Google Trends.pbix      # Main Power BI dashboard file
+│
+├── SerAPI/                     # API query scripts
+│
+├── README.md                   # Main repository documentatio
 ``` 
 
+---
 ## 🔧 How to Change Parameters in Power BI  
 
 To customize the dashboard with different keywords or settings, you can modify the parameters in **Power Query Editor**.  
@@ -91,13 +87,6 @@ To analyze **TikTok** instead of **YouTube**:
 - Change the current value from `YouTube` → `TikTok`.  
 - Click **Close & Apply**.  
 - The dashboard will refresh and display TikTok trends.
----
-
-## 📊 Dashboard Preview
-*(Insert exported PNG image of your Power BI dashboard here)*  
-
-Example:  
-![Google Trends Dashboard](dashboard.png)
 
 ---
 
