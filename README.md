@@ -39,15 +39,20 @@ This repository showcases an interactive **Google Trends dashboard** built using
 ``` 
 Google-Trend-Social-Media-Dashboard/
 │
-├── Docs/  
-│   └── Google Trends.pdf       # Project documentation (PDF)
+├── Docs/                          # Project documentation 
+│   ├── Google Trends.pdf
+│   ├── Keywords by Date.png
+│   ├── Overview.png
+│   ├── Real Time.png
+│   └── Rising & Top Keyword.png       
 │
 ├── PowerBI/  
-│   └── Google Trends.pbix      # Main Power BI dashboard file
+│   └── Google Trends.pbix        # Main Power BI dashboard file
 │
-├── SerAPI/`                    # API query scripts
+├── SerAPI/
+|   └── Readme.md                 # API query scripts
 │
-├── README.md                   # Main repository documentatio
+├── README.md                     # Main repository documentation
 ``` 
 
 ---
@@ -86,19 +91,13 @@ To analyze **TikTok** instead of **YouTube**:
 
 ## 🔑 Insights
 1. **YouTube** consistently leads in search interest (~40% of total share).  
-2. **Facebook** remains strong in Indonesia, ahead of TikTok and Twitter.  
+2. **Facebook** remains strong in globally, ahead of TikTok and Twitter.  
 3. **Instagram** shows steady growth, but not as high as YouTube or Facebook.  
 4. **Rising Keywords** often include YouTube-related products (*YouTube Music, Shorts, Studio*).  
 5. Strong weekend spikes suggest user engagement is time-sensitive.  
 
 ---
 
-## 🚀 How to Use
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/google-trends-dashboard.git
-
----
 
 ## 🙍 About Me  
 
