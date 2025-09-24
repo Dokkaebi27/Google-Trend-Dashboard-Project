@@ -7,10 +7,8 @@ This repository showcases an interactive **Google Trends dashboard** built using
 
 ## 🔎 Project Overview
 - **Data Source**: Google Trends (via SerpAPI / manual export)  
-- **Tools Used**:  
-  - Power BI (Data visualization & dashboarding)  
-- **Objective**:  
-  To analyze and compare the popularity of keywords related to **YouTube, Facebook, Instagram, TikTok, and Twitter/X** in Indonesia and globally.
+- **Tools Used**: Power BI (Data visualization & dashboarding)  
+- **Objective**: To analyze and compare the popularity of keywords related to **YouTube, Facebook, Instagram, TikTok, and Twitter/X** in globally.
 
 ---
 
@@ -26,16 +24,15 @@ This repository showcases an interactive **Google Trends dashboard** built using
 - Highlights **search volume fluctuations** and identifies periods with the highest keyword interest.  
 - Useful for spotting **seasonal trends and event-driven spikes** in search behavior.    
 
-📈 **Rising Keywords**  
-- Highlights **emerging search terms** gaining popularity.  
-- Can Focus one of social media example **YouTube-related terms** (e.g., YouTube Music, Shorts, Studio, MP3, MP4).  
-- Helps identify **new trends and shifting user interests** in real time.  
-
-🏆 **Top Keywords**  
-- Displays the **most searched keywords** with the highest volumes.  
-- Shows **ranking and values** to compare dominant keywords.  
-- Useful for understanding which platforms or terms consistently attract the most attention.
-
+⭐ **Rising & Top Keywords**  
+- Displays the **most popular keywords** along with their trend scores.  
+- Highlights **fastest-growing (Rising) keywords** vs. **consistently searched (Top) keywords**.  
+- Provides **category classification** (e.g., YouTube channel, Computer program, etc.).  
+- Helps identify **emerging topics** and monitor **brand or product visibility** in real time.
+  
+⏱️ **Real Time**  
+- Shows recent keyword search activity across platforms.
+- Displays total searches and keyword distribution.
 
 ---
 ## 📂 Repository Structure
@@ -48,7 +45,7 @@ Google-Trend-Social-Media-Dashboard/
 ├── PowerBI/  
 │   └── Google Trends.pbix      # Main Power BI dashboard file
 │
-├── SerAPI/                     # API query scripts
+├── SerAPI/`                    # API query scripts
 │
 ├── README.md                   # Main repository documentatio
 ``` 
