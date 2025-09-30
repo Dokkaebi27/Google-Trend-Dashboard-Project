@@ -1,6 +1,12 @@
 # 📊 Google Trends Analysis Dashboard
 
-Welcome to the **Google Trends Dashboard** repository 🚀 <br>
+🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#versi-bahasa-indonesia)
+
+---
+## English Version
+
+Welcome to the **Google Trends Dashboard** repository 🚀 
+
 This repository showcases an interactive **Google Trends dashboard** built using **Power BI**. The project tracks and visualizes keyword performance across popular social media platforms.
 
 ---
@@ -115,4 +121,7 @@ Hi, I'm **Ahmad Zaki Amani** 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadzaki27.az@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-zaki-amani-ab091635b/)  
+
+---
+## Versi Bahasa indoneasia
 
