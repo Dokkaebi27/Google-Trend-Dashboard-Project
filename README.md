@@ -1,9 +1,9 @@
 # 📊 Google Trends Analysis Dashboard
 
-🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#versi-bahasa-indonesia)
+🌐 Languages: [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
 
 ---
-## English Version
+## English
 
 Welcome to the **Google Trends Dashboard** repository 🚀 
 
@@ -16,6 +16,7 @@ This repository showcases an interactive **Google Trends dashboard** built using
 ---
 
 ## 🔎 Project Overview
+
 - **Data Source**: Google Trends (via SerpAPI / manual export)  
 - **Tools Used**: Power BI (Data visualization & dashboarding)  
 - **Objective**: To analyze and compare the popularity of keywords related to **YouTube, Facebook, Instagram, TikTok, and Twitter/X** in globally.
@@ -84,7 +85,7 @@ Based on the dashboard screens, the business requirements include:
 ---
 ## 📂 Repository Structure
 ``` 
-Google-Trend-Social-Media-Dashboard/
+Google-Trend-Dashboard-Project/
 │
 ├── Docs/                          # Project documentation 
 │   ├── Google Trends.pdf
@@ -107,7 +108,7 @@ Google-Trend-Social-Media-Dashboard/
 
 To customize the dashboard with different keywords or settings, you can modify the parameters in **Power Query Editor**.  
 
-### Steps  
+## Steps  
 1. Open **Power Query Editor**  
    - Go to the **Home** tab in Power BI Desktop.  
    - Click **Transform Data** → **Transform Data** again.  
@@ -157,7 +158,7 @@ Hi, I'm **Ahmad Zaki Amani** 👋
 
 ---
 
-## Versi Bahasa Indonesia
+## Bahasa Indonesia
 
 Selamat datang di repositori **Google Trends Dashboard** 🚀
 
