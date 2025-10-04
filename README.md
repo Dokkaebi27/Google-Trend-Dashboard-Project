@@ -1,10 +1,9 @@
+🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#indonesian-version)
+
+<a name="english-version"></a>
 # 📊 Google Trends Analysis Dashboard
 
-🌐 Languages: [English](#english) | [Bahasa Indonesia](#bahasa-indonesia)
-
 ---
-## English
-
 Welcome to the **Google Trends Dashboard** repository 🚀 
 
 This repository showcases an interactive **Google Trends dashboard** built using **Power BI**. The project tracks and visualizes keyword performance across popular social media platforms.
@@ -137,8 +136,6 @@ To analyze **TikTok** instead of **YouTube**:
 
 
 ---
-
-
 ## 🙍 About Me  
 
 Hi, I'm **Ahmad Zaki Amani** 👋  
@@ -157,10 +154,11 @@ Hi, I'm **Ahmad Zaki Amani** 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-zaki-amani-ab091635b/)  
 
 ---
+🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#indonesian-version)
 
-## Bahasa Indonesia
-
-Selamat datang di repositori **Google Trends Dashboard** 🚀
+---
+<a name="eindonesian-version"></a>
+# 📊 Dasbor Analisis Google Trends
 
 Repositori ini menampilkan **dashboard interaktif Google Trends** yang dibangun menggunakan **Power BI**. Proyek ini bertujuan untuk melacak dan memvisualisasikan performa kata kunci di berbagai platform media sosial populer.
 
