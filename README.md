@@ -1,5 +1,6 @@
 🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#indonesian-version)
 
+---
 <a name="english-version"></a>
 # 📊 Google Trends Analysis Dashboard
 
