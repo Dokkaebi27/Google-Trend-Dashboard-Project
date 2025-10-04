@@ -3,7 +3,6 @@
 <a name="english-version"></a>
 # 📊 Google Trends Analysis Dashboard
 
----
 Welcome to the **Google Trends Dashboard** repository 🚀 
 
 This repository showcases an interactive **Google Trends dashboard** built using **Power BI**. The project tracks and visualizes keyword performance across popular social media platforms.
