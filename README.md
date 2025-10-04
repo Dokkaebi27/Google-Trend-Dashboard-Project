@@ -157,7 +157,7 @@ Hi, I'm **Ahmad Zaki Amani** 👋
 🌐 Languages: [English](#english-version) | [Bahasa Indonesia](#indonesian-version)
 
 ---
-<a name="eindonesian-version"></a>
+<a name="indonesian-version"></a>
 # 📊 Dasbor Analisis Google Trends
 
 Repositori ini menampilkan **dashboard interaktif Google Trends** yang dibangun menggunakan **Power BI**. Proyek ini bertujuan untuk melacak dan memvisualisasikan performa kata kunci di berbagai platform media sosial populer.
